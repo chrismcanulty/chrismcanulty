@@ -14,7 +14,7 @@ I am a front end developer focussed on creating mobile applications using React 
 ## Projects
 
 - Currently working on List Wars, an app that allows users to track task lists. The app uses React Native Animation to engage users ✨
-- I am building an Ecommerce website for an indie comic book author, aiming for go live before Vancouver Fan Expo in February 🤓
+- I am building an Ecommerce website for an indie comic book author, aiming for go live before Vancouver Fan Expo in June 🤓
 - Check out my app Workout Generator in the App Store and Google Play Store 💪
 
 <!--
